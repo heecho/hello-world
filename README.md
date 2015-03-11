@@ -1,2 +1,2 @@
 # hello-world
-HTML/CSS files for basic About Me webpage
+I'm Hannah, I'm new here, and I'll never reject a cup of coffee before 10am
